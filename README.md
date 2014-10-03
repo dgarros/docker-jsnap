@@ -19,4 +19,5 @@ docker run -i -t <image-id> perl jsnap-perl/bin/jsnap.pl --snapcheck -c <conf fi
 Road Map
 ========
 
-Integrate with ETCD
+ * Integrate with Docker Hub
+ * Integrate with ETCD
